@@ -1,0 +1,2 @@
+# scottblog
+My first blog
